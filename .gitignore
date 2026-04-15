@@ -1,0 +1,11 @@
+**/work/
+*.wlf
+*.ini
+**/transcript
+transcript
+*.bak
+*.mpf
+*.mti
+*.qdb
+*.qpg
+*.qtl

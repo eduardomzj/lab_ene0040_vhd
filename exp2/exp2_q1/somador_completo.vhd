@@ -2,7 +2,7 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
 entity somador_completo is
-    port (
+    Port (
         A    : in  STD_LOGIC;
         B    : in  STD_LOGIC;
         Cin  : in  STD_LOGIC;
@@ -11,8 +11,11 @@ entity somador_completo is
     );
 end somador_completo;
 
-architecture Behavioral of somador_completo is
+architecture comportamento of somador_completo is
 begin
-    S    <= A xor B xor Cin;
+    -- Soma
+    S <= A xor B xor Cin;
+
+    -- Vai-um
     Cout <= (A and B) or (A and Cin) or (B and Cin);
-end Behavioral;
+end comportamento;

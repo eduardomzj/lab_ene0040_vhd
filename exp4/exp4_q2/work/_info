@@ -1,0 +1,178 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q1
+Edecoder4x16
+Z0 w1789153418
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 dC:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2
+Z4 8C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/decoder4x16.vhd
+Z5 FC:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/decoder4x16.vhd
+l0
+L4 1
+Vg=D1H5?74P?AAbXL1T6Bb3
+!s100 ]WVJ?^;ka8?d9Q1d;ljNb1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1789154207
+!i10b 1
+Z8 !s108 1789154207.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/decoder4x16.vhd|
+Z10 !s107 C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/decoder4x16.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 11 decoder4x16 0 22 g=D1H5?74P?AAbXL1T6Bb3
+!i122 0
+l12
+L11 21
+VMJLSRa>=IMW;03]ZG`0762
+!s100 @ERCEkSHJgb3K4YodfmPB3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emux8x1
+Z13 w1789153426
+R1
+R2
+!i122 1
+R3
+Z14 8C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/mux8x1.vhd
+Z15 FC:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/mux8x1.vhd
+l0
+L4 1
+VI]9^OE`:VR:YD]zdFLc^61
+!s100 dEdMM@X25LHIjiYOlhOZH3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/mux8x1.vhd|
+Z17 !s107 C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/mux8x1.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 6 mux8x1 0 22 I]9^OE`:VR:YD]zdFLc^61
+!i122 1
+l13
+L12 11
+VX23fN63V]AaOXdnNz@G<:1
+!s100 DNjE5d7BOFAH56cJ`I_oU1
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Equestao2_exp4
+Z18 w1789153443
+R1
+R2
+!i122 2
+R3
+Z19 8C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/questao2_exp4.vhd
+Z20 FC:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/questao2_exp4.vhd
+l0
+L4 1
+VOO4TY<C3L_L]DmYz02K=m2
+!s100 ^]Q7f1?QL[J:@W>X]C8`N2
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/questao2_exp4.vhd|
+Z22 !s107 C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/questao2_exp4.vhd|
+!i113 1
+R11
+R12
+Aestrutural
+R1
+R2
+Z23 DEx4 work 13 questao2_exp4 0 22 OO4TY<C3L_L]DmYz02K=m2
+!i122 2
+l41
+L17 67
+VDHDXhPQk47K=z28b5Be4]1
+!s100 z`Q3]iZkO_JlV30b@k@jd1
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Etb_questao2_exp4
+Z24 w1789153447
+Z25 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 3
+R3
+Z26 8C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/tb_questao2_exp4.vhd
+Z27 FC:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/tb_questao2_exp4.vhd
+l0
+L5 1
+V;l5]FYS]:^b5ic@j7P3P13
+!s100 g>J=?lVlaS6LhKabZ[i7T1
+R6
+32
+R7
+!i10b 1
+R8
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/tb_questao2_exp4.vhd|
+!s107 C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/tb_questao2_exp4.vhd|
+!i113 1
+R11
+R12
+Ateste
+R23
+R25
+R1
+R2
+DEx4 work 16 tb_questao2_exp4 0 22 ;l5]FYS]:^b5ic@j7P3P13
+!i122 3
+l17
+L8 65
+VJIJ5SYIV:e>YF>lNVUdch0
+!s100 n21zhe7N<LUXY>BUdBDg72
+R6
+32
+R7
+!i10b 1
+R8
+R28
+Z29 !s107 C:/Users/joaom/OneDrive/Desktop/lab_sd/exp4/exp4_q2/tb_questao2_exp4.vhd|
+!i113 1
+R11
+R12

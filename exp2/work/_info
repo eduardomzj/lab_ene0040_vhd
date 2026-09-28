@@ -1,0 +1,175 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/joaom/OneDrive/Desktop/lab_sd/exp3/exp3_q2
+Emux_4x1
+Z0 w1776979043
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 2
+Z3 dC:/Users/joaom/OneDrive/Desktop/lab_sd/exp2
+Z4 8C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/mux_4x1.vhd
+Z5 FC:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/mux_4x1.vhd
+l0
+L4 1
+VNffmj1RCHj=OGCGDQHH620
+!s100 Z?VN[MK0:Nz=c5nKPHJAI2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1788525629
+!i10b 1
+Z8 !s108 1788525629.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/mux_4x1.vhd|
+Z10 !s107 C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/mux_4x1.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Acomportamento
+R1
+R2
+DEx4 work 7 mux_4x1 0 22 Nffmj1RCHj=OGCGDQHH620
+!i122 2
+l13
+L12 7
+VIGE;mQ3Ei_LjebYbGIIzQ0
+!s100 bZAUR57@QNX4Qa0Z^LSHZ3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esomador_completo
+Z13 w1776977815
+R1
+R2
+!i122 0
+R3
+Z14 8C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/somador_completo.vhd
+Z15 FC:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/somador_completo.vhd
+l0
+L4 1
+V9;F7FldkSRQ9Q[n90e<6h2
+!s100 B=LPR01SR^D9=8Dh8fVT<0
+R6
+32
+Z16 !s110 1788525571
+!i10b 1
+Z17 !s108 1788525571.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/somador_completo.vhd|
+Z19 !s107 C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/somador_completo.vhd|
+!i113 1
+R11
+R12
+Acomportamento
+R1
+R2
+DEx4 work 16 somador_completo 0 22 9;F7FldkSRQ9Q[n90e<6h2
+!i122 0
+l15
+L14 8
+ViJ24m?CSi77zXK^@R98RR3
+!s100 CB=hICX0ET49R5ceWh8mM1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Etb_mux_4x1
+Z20 w1776979400
+R1
+R2
+!i122 3
+R3
+Z21 8C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/tb_mux_4x1.vhd
+Z22 FC:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/tb_mux_4x1.vhd
+l0
+L4 1
+VYV8c]mAfK_fDn7J7k3?6L2
+!s100 H?D4CHi?6ZJ0icGlkGXRc3
+R6
+32
+Z23 !s110 1788525630
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/tb_mux_4x1.vhd|
+!s107 C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/tb_mux_4x1.vhd|
+!i113 1
+R11
+R12
+Ateste
+R1
+R2
+DEx4 work 10 tb_mux_4x1 0 22 YV8c]mAfK_fDn7J7k3?6L2
+!i122 3
+l21
+Z25 L7 33
+Vhf7LUI_fDeI@AX[<EnkMe0
+!s100 [:cZzSlCHRf<A<9`[65;j3
+R6
+32
+R23
+!i10b 1
+R8
+R24
+Z26 !s107 C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/tb_mux_4x1.vhd|
+!i113 1
+R11
+R12
+Etb_somador_completo
+Z27 w1776977823
+R1
+R2
+!i122 1
+R3
+Z28 8C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/tb_somador_completo.vhd
+Z29 FC:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/tb_somador_completo.vhd
+l0
+L4 1
+Vf`91[8MK;Z[K3YL@o83^D1
+!s100 ^ZThnz_G5T]g::2V`1Lif0
+R6
+32
+R16
+!i10b 1
+R17
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/tb_somador_completo.vhd|
+Z31 !s107 C:/Users/joaom/OneDrive/Desktop/lab_sd/exp2/tb_somador_completo.vhd|
+!i113 1
+R11
+R12
+Ateste
+R1
+R2
+DEx4 work 19 tb_somador_completo 0 22 f`91[8MK;Z[K3YL@o83^D1
+!i122 1
+l22
+R25
+VIT^F>X:E286bzec:96GP33
+!s100 Z8Eh0^n8_SVdRlQa=C?hZ2
+R6
+32
+R16
+!i10b 1
+R17
+R30
+R31
+!i113 1
+R11
+R12

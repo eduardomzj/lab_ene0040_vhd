@@ -1,0 +1,39 @@
+# Compile of decoder4x16.vhd was successful.
+# Compile of mux8x1.vhd was successful.
+# Compile of questao2_exp4.vhd was successful.
+# Compile of tb_questao2_exp4.vhd was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.tb_questao2_exp4
+# vsim -gui work.tb_questao2_exp4 
+# Start time: 16:17:21 on Sep 11,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_questao2_exp4(teste)
+# Loading work.questao2_exp4(estrutural)
+# Loading work.decoder4x16(behavioral)
+# Loading work.mux8x1(behavioral)
+add wave  \
+sim:/tb_questao2_exp4/A \
+sim:/tb_questao2_exp4/B \
+sim:/tb_questao2_exp4/C \
+sim:/tb_questao2_exp4/D \
+sim:/tb_questao2_exp4/E \
+sim:/tb_questao2_exp4/F \
+sim:/tb_questao2_exp4/G \
+sim:/tb_questao2_exp4/S
+add wave  \
+sim:/tb_questao2_exp4/A \
+sim:/tb_questao2_exp4/B \
+sim:/tb_questao2_exp4/C \
+sim:/tb_questao2_exp4/D \
+sim:/tb_questao2_exp4/E \
+sim:/tb_questao2_exp4/F \
+sim:/tb_questao2_exp4/G \
+sim:/tb_questao2_exp4/S
+run 1280 ns
+# ** Note: Questao 2: todas as 128 combinacoes testadas com sucesso.
+#    Time: 1280 ns  Iteration: 0  Instance: /tb_questao2_exp4
+# End time: 16:26:41 on Sep 11,2026, Elapsed time: 0:09:20
+# Errors: 0, Warnings: 5
